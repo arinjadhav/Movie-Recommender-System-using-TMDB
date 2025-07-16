@@ -20,9 +20,8 @@ To demonstrate Cosine Similarity, we first need vector representations. In this 
 Once we have the vectors, the cosine_similarity() function can be called with the two vectors as input. It computes the similarity score between them.
 4.	Similarity Score Range:
 The result is a value between 0 and 1:
-
-•	0: Completely different vectors.
-•	1: Completely similar vectors.
+0: Completely different vectors.
+1: Completely similar vectors.
 
 6.	Learn More
 For additional details, visit this guide on Cosine Similarity.
