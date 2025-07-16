@@ -9,9 +9,6 @@ A content-based movie recommendation system built using the TMDB dataset. The sy
 
 ## Table of Contents
 
-
-
-
 1.	Cosine Similarity Overview:
 Cosine Similarity is a metric used to measure the similarity between two documents or vectors. It calculates the cosine of the angle between them.
 2.	Vector Representation:
