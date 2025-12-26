@@ -1,8 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arinjadhav.Movie-Recommender-System-using-TMDB"/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arin+Jadhav!;" />
-</h1>
 
 # Movie Recommender System using TMDB
 A content-based movie recommendation system built using the TMDB dataset. The system leverages cosine similarity to recommend movies based on features like genres, keywords, and cast/crew information. Users can input a movie, and the model suggests similar movies based on their preferences.
