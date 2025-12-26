@@ -1,5 +1,7 @@
+<!-- PROJECT LOGO -->
+![20d38e00-6634-11eb-9d1f-6a5232d0f84f](https://user-images.githubusercontent.com/86877457/132905471-3ef27af4-ecc6-44bf-a47c-5ccf2250410c.jpg)
 
-# Movie Recommender System using TMDB
+## Movie Recommender System using TMDB
 A content-based movie recommendation system built using the TMDB dataset. The system leverages cosine similarity to recommend movies based on features like genres, keywords, and cast/crew information. Users can input a movie, and the model suggests similar movies based on their preferences.
 
 ## Table of Contents
