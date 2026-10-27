@@ -33,3 +33,12 @@ A **content-based movie recommendation web app** built with **Python** and **Str
 | **ML & Data Processing** | `Pandas`, `NumPy`, `scikit-learn (CountVectorizer, cosine_similarity)`, `NLTK (Porter stemmer)` |
 | **Data & APIs** | `TMDB 5000 dataset`, `TMDB API (poster images)` |
 | **Tools & Deployment** | `Jupyter Notebook`, `Pickle`, `Git LFS`, `Procfile` |
+
+
+| Category | Tools |
+|---|---|
+| **Frontend** | Streamlit |
+| **Backend** | Python, Requests |
+| **ML & Data Processing** | Pandas, NumPy, scikit-learn (`CountVectorizer`, `cosine_similarity`), NLTK (Porter stemmer) |
+| **Data & APIs** | TMDB 5000 dataset, TMDB API (poster images) |
+| **Tools & Deployment** | Jupyter Notebook, Pickle, Git LFS, Procfile |
