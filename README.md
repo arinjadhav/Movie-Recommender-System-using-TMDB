@@ -11,7 +11,11 @@ A **content-based movie recommendation web app** built with **Python** and **Str
 ## ✨ Features
 
 <p align="center">
-  <img src="assets/features.svg" alt="Features: searchable dropdown, five similar movies, live posters, no user data needed, instant results, clean UI" width="800">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="assets/features-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/features-light.svg">
+    <img src="assets/features-dark.svg" alt="Features" width="800">
+  </picture>
 </p>
 
 <br>
