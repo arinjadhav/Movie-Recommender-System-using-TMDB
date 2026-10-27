@@ -31,4 +31,7 @@ A **content-based movie recommendation web app** built with **Python** and **Str
 | **Tools & Deployment** | Jupyter Notebook, Pickle, Git LFS, Procfile |
 
 <br>
+<hr>
 
+<a href="https://github.com/arinjadhav"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GITHUB&message=arinjadhav&labelColor=161B22&color=DBDBDB&logo=github&logoColor=FFFFFF" alt="GitHub: arinjadhav"></a>
+<a href="https://github.com/arinjadhav/IITPatna-MTech/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&labelColor=161B22&color=DBDBDB" alt="MIT License"></a>
