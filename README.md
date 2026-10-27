@@ -16,29 +16,12 @@ A **content-based movie recommendation web app** built with **Python** and **Str
 
 <br>
 
-## 🛠️ Tech Stack
+## ⚙️ Technologies Used
 
-- [x] **Frontend:** `Streamlit`
-- [x] **Backend:** `Python`, `Requests`
-- [x] **ML & Data Processing:** `Pandas`, `NumPy`, `scikit-learn (CountVectorizer, cosine_similarity)`, `NLTK (Porter stemmer)`
-- [x] **Data & APIs:** `TMDB 5000 dataset, TMDB API (poster images)`
-- [x] **Tools & Deployment:** `Jupyter Notebook`, `Pickle`, `Git LFS`, `Procfile`
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/technologies-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/technologies-light.svg">
+  <img alt="Technologies used in this project" src="assets/technologies-dark.svg" width="65%">
+</picture>
 
 <br>
-
-| Category | Tools |
-|---|---|
-| **Frontend** | `Streamlit` |
-| **Backend** | `Python`, `Requests` |
-| **ML & Data Processing** | `Pandas`, `NumPy`, `scikit-learn (CountVectorizer, cosine_similarity)`, `NLTK (Porter stemmer)` |
-| **Data & APIs** | `TMDB 5000 dataset`, `TMDB API (poster images)` |
-| **Tools & Deployment** | `Jupyter Notebook`, `Pickle`, `Git LFS`, `Procfile` |
-
-
-| Category | Tools |
-|---|---|
-| **Frontend** | Streamlit |
-| **Backend** | Python, Requests |
-| **ML & Data Processing** | Pandas, NumPy, scikit-learn (`CountVectorizer`, `cosine_similarity`), NLTK (Porter stemmer) |
-| **Data & APIs** | TMDB 5000 dataset, TMDB API (poster images) |
-| **Tools & Deployment** | Jupyter Notebook, Pickle, Git LFS, Procfile |
