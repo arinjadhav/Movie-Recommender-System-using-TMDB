@@ -16,24 +16,7 @@ A **content-based movie recommendation web app** built with **Python** and **Str
 
 <br>
 
-## 🛠️ Tech Stack
-
-- [x] **Frontend:** `Streamlit`
-- [x] **Backend:** `Python`, `Requests`
-- [x] **ML & Data Processing:** `Pandas`, `NumPy`, `scikit-learn (CountVectorizer, cosine_similarity)`, `NLTK (Porter stemmer)`
-- [x] **Data & APIs:** `TMDB 5000 dataset, TMDB API (poster images)`
-- [x] **Tools & Deployment:** `Jupyter Notebook`, `Pickle`, `Git LFS`, `Procfile`
-
-<br>
-
-| Category | Tools |
-|---|---|
-| **Frontend** | `Streamlit` |
-| **Backend** | `Python`, `Requests` |
-| **ML & Data Processing** | `Pandas`, `NumPy`, `scikit-learn (CountVectorizer, cosine_similarity)`, `NLTK (Porter stemmer)` |
-| **Data & APIs** | `TMDB 5000 dataset`, `TMDB API (poster images)` |
-| **Tools & Deployment** | `Jupyter Notebook`, `Pickle`, `Git LFS`, `Procfile` |
-
+## ⚙️ Technologies Used
 
 | Category | Tools |
 |---|---|
@@ -42,3 +25,6 @@ A **content-based movie recommendation web app** built with **Python** and **Str
 | **ML & Data Processing** | Pandas, NumPy, scikit-learn (`CountVectorizer`, `cosine_similarity`), NLTK (Porter stemmer) |
 | **Data & APIs** | TMDB 5000 dataset, TMDB API (poster images) |
 | **Tools & Deployment** | Jupyter Notebook, Pickle, Git LFS, Procfile |
+
+<br>
+
